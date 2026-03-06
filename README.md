@@ -1,5 +1,5 @@
-I'm a software developer with expertise in **Python**, **full-stack web development (JavaScript/Node.js)**, **SQL/MySQL**, **Git**, and **Power BI**. I also have solid knowledge of **network infrastructure** and **industrial automation**, which helps me build solutions that connect software, data, and real operational environments.
-I currently work in **Occupational Safety and Environmental Management** at **MAG Aliança** in **Resende, Brazil**, supporting safer operations and sustainable processes while bringing a strong technology mindset to continuous improvement initiatives.
+    I'm a software developer with expertise in **Python**, **full-stack web development (JavaScript/Node.js)**, **SQL/MySQL**, **Git**, and **Power BI**. I also have solid knowledge of **network infrastructure** and **industrial automation**, which helps me build solutions that connect software, data, and real operational environments.
+    I currently work in **Occupational Safety and Environmental Management** at **MAG Aliança** in **Resende, Brazil**, supporting safer operations and sustainable processes while bringing a strong technology mindset to continuous improvement initiatives.
 - Build **data-driven applications** and automation tools using **Python**
 - Develop **full-stack systems** with **JavaScript/Node.js**, APIs, and databases
 - Design and optimize **SQL/MySQL** structures for performance and reliability
@@ -13,4 +13,4 @@ I enjoy solving complex problems with practical solutions, especially in:
 - systems integration
 - industrial digitalization
 - safety and sustainability-driven improvements
-If you’d like to collaborate or talk about automation, data, or software engineering, feel free to reach out!
+    If you’d like to collaborate or talk about automation, data, or software engineering, feel free to reach out!
